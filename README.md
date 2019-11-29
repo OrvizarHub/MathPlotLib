@@ -3,7 +3,9 @@
 ## by orvizar
 
 <img align="left" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png" width="300" height="170">
-<img align="left" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/matplotlib.PNG" width="700" height="170">
+<img align="left" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/matplotlib.PNG" width="500" height="130">
+
+---
 
 <br><br><br><br><br><br>
 
