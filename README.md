@@ -1,7 +1,8 @@
-![ORVIZAR image]<img>
-<img align="right" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png" width="350" height="200">
 # ORVIZAR
-------------------------------------------------------------------------------------------------------------------
+----------------
+<img align="right" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png" width="350" height="200">
+
+---------------
 
 # Curso MathPlotLib en Jupyter
 -----------
