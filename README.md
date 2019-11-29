@@ -1,7 +1,7 @@
 # MathPlotLib
 -----------
 Este el curso de matplotlib usando Python y Jupyter Notebook.
-![](https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png{:height="50%" width="50%"})
+![](https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png  {:height="50%" width="50%"})
 Matplotlib es un modulo de python muy usado para graficar dentro de python sus applicaciones son en muchos ambitos como Data Science, Machine Learning , Artificial Intelligence, etc.
 
 Este Trabajo cubrira muchos elementos necesarios para usar matplotlib con varios ejemplos.
