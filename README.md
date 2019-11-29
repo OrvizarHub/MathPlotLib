@@ -1,11 +1,11 @@
-# ORVIZAR
-----------------
-<img align="right" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png" width="350" height="200">
+<img align="right" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png" width="300" height="170">
 
----------------
+# ORVIZAR
+
+---
 
 # Curso MathPlotLib en Jupyter
------------
+---
 Este el curso de matplotlib usando Python y Jupyter Notebook.
 
 Matplotlib es un modulo de python muy usado para graficar dentro de python sus applicaciones son en muchos ambitos como Data Science, Machine Learning , Artificial Intelligence, etc.
