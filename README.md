@@ -1,8 +1,11 @@
-# by orvizar
+# Curso básico de Matplotlib usando Jupyter Notebook
+
+## by orvizar
 
 <img align="left" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/Logo.png" width="300" height="170">
+<img align="left" src="https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/matplotlib.PNG" width="700" height="170">
 
-![Matplotlib Logo](https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/matplotlib.PNG)
+<br><br><br><br><br><br>
 
 Este el curso de matplotlib usando Python y Jupyter Notebook.
 
