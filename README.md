@@ -3,7 +3,7 @@
 # ORVIZAR
 ------------------------------------------------------------------------------------------------------------------
 
-# MathPlotLib
+# Curso MathPlotLib en Jupyter
 -----------
 Este el curso de matplotlib usando Python y Jupyter Notebook.
 
