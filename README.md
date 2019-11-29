@@ -7,8 +7,8 @@ Este Trabajo cubrira muchos elementos necesarios para usar matplotlib con varios
 El software necesario se indica en la parte inferior : 
 al omento de la edicion del curso (video) : 
 
-![Matplotlib Logo]()
-Format: ![Alt Text](url)
+![Matplotlib Logo](https://github.com/OrvizarHub/MathPlotLib/blob/master/utils/matplotlib.PNG)
+
 
 |Software Requerido   | OS |
 | ------------- | ------------- |
